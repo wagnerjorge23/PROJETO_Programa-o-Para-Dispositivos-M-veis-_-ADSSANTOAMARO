@@ -1,4 +1,4 @@
-# PROJETO_Programa-o-Para-Dispositivos-M-veis-_-ADSSANTOAMARO
+# PROJETO_Programaco-Para-Dispositivos-Moveis-_-ADSSANTOAMARO
 
 Estrutura Geral
 Activity Principal (MainActivity): Contém 4 botões:
