@@ -37,3 +37,6 @@ Disciplina.
 Um ícone "X" no topo retorna para a MainActivity.
 4. Fechar o App
 O botão encerra a aplicação.
+
+
+®️OMERIUM TECH
